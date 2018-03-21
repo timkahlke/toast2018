@@ -1,5 +1,5 @@
 # Introduction To Nanopore Sequencint - TOAST2018
-Prac material and presentations from The Omics Australia Tutorials Sydney (TOAST) 2018 workshop 19th-20th of March 2018
+Prac material and presentations from The Omics Australia Tutorials Sydney (TOAST) 2018 workshop 19th-20th of March 2018, University of Technology Sydney.
 
 TOAST2018 was a two days workshop focussing on nanopore sequencing and sequence analysis: a lab day with hands-on sequencing and a bioinformatics day with hands-ond tutorial including basecalling, read assembly and error correction.
 
