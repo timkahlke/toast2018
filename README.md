@@ -3,7 +3,7 @@ Prac material and presentations from The Omics Australia Tutorials Sydney (TOAST
 
 TOAST2018 was a two days workshop focussing on nanopore sequencing and sequence analysis: a lab day with hands-on sequencing and a bioinformatics day with hands-ond tutorial including basecalling, read assembly and error correction.
 
-This github provides the presentations and talks of the workshop.
+This github repo provides the presentations and talks of the workshop.
 Additionally, all materials, data and the course virtual machine files are provided so that everybody can learn the basics of Genome Assembly and Nanopore data analysis.
 
 
