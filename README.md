@@ -45,6 +45,8 @@ The Virtual machine file TOAST2018.zip can be found at https://drive.google.com/
 
 Detailed instructions can also be found in the presentation "Introduction to Nanopore Sequencing" in the day2 folder and in the "Introduction to command-line" section below.
 
+The tutorials can be found in the Handsout folder of day2.
+
 
 #### Trouble shooting
 
