@@ -46,6 +46,8 @@ The step-by-step handout for the bioinformatics tutorial can be found in the dir
 
 The Virtual machine file TOAST2018.zip can be found at https://drive.google.com/file/d/1FMEGsI7lB1hvA8QO5SEmtLrG47sRsIdS/view?usp=sharing
 
+MD5 sum: 8ed9ac62569827b699c2b6dac178e28c
+
 ### Using the TOAST2018 VirtualBox 
 
 1. Download and install VirtualBox (https://www.virtualbox.org/wiki/Downloads). 
