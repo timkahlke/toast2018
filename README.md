@@ -32,11 +32,13 @@ Presentations can be found in directory /day2/presentations.
 
 Handouts for the bioinformatics tutorial can be found in the directory /day2/handouts.
 
-### Virtual machine
+# Bioinformatics tutorials
+
+## Virtual machine
 
 The Virtual machine file TOAST2018.zip can be found at https://drive.google.com/file/d/1FMEGsI7lB1hvA8QO5SEmtLrG47sRsIdS/view?usp=sharing
 
-#### Using the TOAST2018 VirtualBox 
+### Using the TOAST2018 VirtualBox 
 
 1. Download and install VirtualBox (https://www.virtualbox.org/wiki/Downloads). 
 2. Download and unpack the TOAST2018.zip file
@@ -61,16 +63,16 @@ For some Windows versions Virtualisation will have to be enabled in the BIOS.
 
 
 
-### Pre-compiled data
+## Pre-compiled data
 
 The pre-compiled data is included in the virtual machine but can also be found at https://drive.google.com/file/d/1M1gdwoJUZJ4uOsk0Jm3Z1GvGMfc_aIYe/view?usp=sharing
 
-### Day1 Sequencing data
+## Day1 Sequencing data
 
 Sequencing data of two of the groups can be found at https://drive.google.com/drive/folders/1LE27O3ljP2Xwc-lb2juPvkR63RbmXRoe?usp=sharing
 
 
- # Software used 
+ ## Software used 
  
  * NanoPlot v1.8.1
  * Mummer v3
