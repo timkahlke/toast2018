@@ -11,32 +11,44 @@ This github repo provides the presentations and talks of the workshop as well as
 After training on "dead" flow cell participants were prvided with DNA from 3 organisms and were asked to prepare a library using the 1D ligation kit SQK-LSK108 and subsequently sequence it on a Minion flow cell FLO-MIN106.
 
 
-### Material
+### Presentations
 
-Presentations given by Tonia Russel (Ramaciotii Center for Genomics, UNSW, Sydney, NSW, Australia) and Benjamin Schwessinger (Australian National University, Canberra, Australia) can be found int folder /day1/Presentations.
+Presentations given on Day1 can be found in day1/Presentations
+* Tonia Russel (Ramaciotii Center for Genomics, UNSW, Sydney, NSW, Australia) 
+* Benjamin Schwessinger (Australian National University, Canberra, Australia) 
 
-Handouts for lab practicals can be found in directory /day1/Handouts
+Additionally, presentations *Introduction to MinION* and *Introduction to MinKNOW* can also be found in that directory.
+
+### Handouts
+Handouts of Day1 include the Oxford Nanopore library preparation manual for SQK-LSK108 and the Flow Cell wash kit as well as a short prac manual.
 
 
 ## Day 2
-Bioinformatics practical including the analysis of sequencing data from day1 as well as analysis and assembly of pre-compiled data including:
+The Bioinformatics practical of day 1 included the analysis of sequencing data from day1 as well as analysis and assembly of pre-compiled data including:
 * base calling with albacore
-* Plots using nanoplot
+* Ploting using nanoplot
 * extraction of reads using poretools and identification of the organisms sequenced on day1
 * assembly with minimap2 & miniasm
 * consensus building with Racon
 * comparison to reference using mummer
 
 ### Material
-Presentations can be found in directory /day2/presentations.
+The following Day2 presentations can be found in directory /day2/presentations:
+* Introduction to Nanopore Sequencing
+* Introduction to Genome Assembly
+* Error correction, consensus & polishing
 
-Handouts for the bioinformatics tutorial can be found in the directory /day2/handouts.
+The step-by-step handout for the bioinformatics tutorial can be found in the directory /day2/handouts.
 
-### Virtual machine
+# Bioinformatics tutorials
+
+## Virtual machine
 
 The Virtual machine file TOAST2018.zip can be found at https://drive.google.com/file/d/1FMEGsI7lB1hvA8QO5SEmtLrG47sRsIdS/view?usp=sharing
 
-#### Using the TOAST2018 VirtualBox 
+MD5 sum: 8ed9ac62569827b699c2b6dac178e28c
+
+### Using the TOAST2018 VirtualBox 
 
 1. Download and install VirtualBox (https://www.virtualbox.org/wiki/Downloads). 
 2. Download and unpack the TOAST2018.zip file
@@ -44,9 +56,6 @@ The Virtual machine file TOAST2018.zip can be found at https://drive.google.com/
 4. Double-click the TOAST2018 VM on the left side of the VirtualBox GUI.
 
 Detailed instructions can also be found in the presentation "Introduction to Nanopore Sequencing" in the day2 folder and in the "Introduction to command-line" section below.
-
-The tutorials can be found in the Handsout folder of day2.
-
 
 #### Trouble shooting
 
@@ -61,16 +70,16 @@ For some Windows versions Virtualisation will have to be enabled in the BIOS.
 
 
 
-### Pre-compiled data
+## Pre-compiled data
 
 The pre-compiled data is included in the virtual machine but can also be found at https://drive.google.com/file/d/1M1gdwoJUZJ4uOsk0Jm3Z1GvGMfc_aIYe/view?usp=sharing
 
-### Day1 Sequencing data
+## Day1 Sequencing data
 
 Sequencing data of two of the groups can be found at https://drive.google.com/drive/folders/1LE27O3ljP2Xwc-lb2juPvkR63RbmXRoe?usp=sharing
 
 
- # Software used 
+ ## Software used 
  
  * NanoPlot v1.8.1
  * Mummer v3
