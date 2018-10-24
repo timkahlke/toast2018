@@ -5,6 +5,7 @@ TOAST2018 was a two days workshop focussing on nanopore sequencing and sequence 
 
 This github repo provides the presentations and talks of the workshop as well as all materials, data and the course virtual machine files that are needed to re-do the bioinformatics tutorial at home.
 
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/AdvancedTwigTec.svg?style=social&label=Follow%20%40AdvancedTwigTec)](https://twitter.com/AdvancedTwigTec)
 
 ## Day 1
 
